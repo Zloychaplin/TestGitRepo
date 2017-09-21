@@ -1,10 +1,7 @@
 print("Hello world;")
 print("Dance Dance;")
-
 abra;
-
 fgdaqwgegr;
-
 qwrtyy;
-
-print("How I may work, in this place?")
+print("Now will be great code;")
+print("How I may work, in this place?";)
