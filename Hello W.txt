@@ -1,9 +1,7 @@
 print("Hello world;")
 print("Dance Dance;")
-
 abra;
-
 fgdaqwgegr;
-
 qwrtyy;
 
+print("Now will be great code;")
