@@ -1,4 +1,4 @@
-print("Hello world")
-print("Dance Dance")
+print("Hello world;")
+print("Dance Dance;")
 
-abra
+abra;
